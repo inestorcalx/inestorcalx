@@ -1,5 +1,5 @@
-## Hi there 👋  
-
+## ¡Hola! 👋  
+🌱 I’m currently learning ... PHP, JavaScript, Java, HTML, CSS, Git, Github, WordPress, Angular.
 ### 🎖️ Mis insignias  
 
 <a href="https://www.credly.com/badges/a3572f06-9de9-412b-8c46-7927091be36c" target="_blank">
